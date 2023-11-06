@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Rock Paper Scissors!!!</title>																																																						<html>
+<title>Patthar Paper Scissors!!!</title>																																																						<html>
 </head>
 
    <body>
